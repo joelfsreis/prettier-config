@@ -1,11 +1,22 @@
 {
   "name": "@imaginarycloud/prettier-config",
   "version": "1.0.0",
-  "description": "prettier prettierconfig prettier-config imaginarycloud imaginary cloud",
+  "description": "Prettier config",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Imaginary Cloud",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelfsreis/prettier-config.git"
   },
-  "author": "",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/joelfsreis/prettier-config/issues"
+  },
+  "homepage": "https://github.com/joelfsreis/prettier-config#readme",
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "prettierconfig",
+    "imaginarycloud"
+  ]
 }
