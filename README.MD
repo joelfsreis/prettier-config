@@ -1,14 +1,14 @@
 # Prettier
 
-## @imaginarycloud/prettier-config
+## @joelfsreis/prettier-config
 
 
 ```
-npm install prettier @imaginarycloud/prettier-config
+npm install prettier @joelfsreis/prettier-config
 ```
 
 In your `package.json` add:
 
 ```
-"prettier": "@imaginarycloud/prettier-config"
+"prettier": "@joelfsreis/prettier-config"
 ```

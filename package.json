@@ -1,9 +1,9 @@
 {
-  "name": "@imaginarycloud/prettier-config",
+  "name": "@joelfsreis/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config",
   "main": "index.js",
-  "author": "Imaginary Cloud",
+  "author": "Joel Reis",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
     "prettier-config",
     "prettierconfig",
     "imaginarycloud"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
